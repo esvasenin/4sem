@@ -1,0 +1,3 @@
+/Users/esvasenin/Учеба/IV семестр/C++/4sem/task_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/esvasenin/Учеба/IV семестр/C++/4sem/task_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/esvasenin/Учеба/IV семестр/C++/4sem/task_1/cmake-build-debug/CMakeFiles/task_1.dir
