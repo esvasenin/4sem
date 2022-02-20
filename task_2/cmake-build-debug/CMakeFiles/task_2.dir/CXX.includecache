@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/esvasenin/Учеба/IV семестр/C++/4sem/task_2/main.cpp
+iostream
+-
+vector
+-
+string
+-
+initializer_list
+-
+
